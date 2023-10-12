@@ -9,6 +9,11 @@ Github: https://github.com/igorlacerdacarneiro
 
 React v18.2.0
 
+# Run
+
+npm install
+npm start
+
 # NS1 Portal Take Home Screener
 
 ## Take-Home Assignment: Frontend Software Engineering
