@@ -1,0 +1,11 @@
+.header {
+    height: auto;
+    background: var(--app-black-color);
+    padding: 16px;
+    color: var(--app-write-color);
+
+    svg {
+        height: 34px;
+        width: 48px;
+    }
+}

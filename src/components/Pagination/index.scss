@@ -1,0 +1,27 @@
+.pagination {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    text-align: center;
+
+    .active {
+        background-color: var(--app-blue-color);
+        color: var(--app-write-color);
+    }
+
+    button {
+        min-width: 32px;
+        padding: 5px 10px;
+        line-height: 20px;
+        border-radius: 6px;
+        border: 1px solid transparent;
+    }
+
+    .pag-next, .pag-previous {
+        background: transparent;
+        border: none;
+        
+        svg {
+            padding: 0 8px;
+        }
+    }
+}

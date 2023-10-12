@@ -1,10 +1,43 @@
-# Getting Started with Create React App
+# Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Name: Igor Lacerda Carneiro
+E-mail: igorlacerdacarneiro@gmail.com
+Linkedin: https://www.linkedin.com/in/igorlacerdacarneiro/
+Github: https://github.com/igorlacerdacarneiro
+
+# Project
+
+React v18.2.0
+
+# NS1 Portal Take Home Screener
+
+## Take-Home Assignment: Frontend Software Engineering
+
+Dear Candidate Igor Lacerda Carneiro,
+
+Thank you for your interest in the frontend software engineering position at NS1. We appreciate the time you've invested in the application process so far.
+
+As the next step, we would like to invite you to complete a take-home assignment. This assignment is designed to assess your frontend development skills and problem-solving abilities. We estimate that it should take no more than 2 hours to complete.
+
+**Assignment Details:**
+
+You are tasked with recreating a simpler version of the Pull Requests page that displays a list of PRs, for example https://github.com/facebook/react/pulls. The page should fetch a list of PRs using the GitHub API and dynamically render the PRs on the page. Each PR should display its name, price, and an image.
+
+Here are the requirements for the assignment:
+
+- Please use React or similar frameworks.
+- Page should display a list of PRs.
+- Each PR should contain 3 pieces of information: the name of the PR, the author, and how many comments are on the PR. [[Github API docs](https://docs.github.com/en/rest/pulls/pulls?apiVersion=2022-11-28#list-pull-requests)]
+- Ensure that the web page is responsive and works well on desktop and mobile screens.
+- Bonus include some accessibility features.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Install all the package in the project.
 
 ### `npm start`
 
@@ -29,42 +62,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
